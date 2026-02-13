@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\pradi\\source\\Reflection\\ReflectionDemo\\ReflectionDemo.csproj",
+      "projectUniqueName": "D:\\Users\\pradi\\source\\Advanced CSharp DotNet\\Reflection\\ReflectionDemo\\ReflectionDemo.csproj",
       "projectName": "ReflectionDemo",
-      "projectPath": "D:\\Users\\pradi\\source\\Reflection\\ReflectionDemo\\ReflectionDemo.csproj",
+      "projectPath": "D:\\Users\\pradi\\source\\Advanced CSharp DotNet\\Reflection\\ReflectionDemo\\ReflectionDemo.csproj",
       "packagesPath": "C:\\Users\\pradi\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\pradi\\source\\Reflection\\ReflectionDemo\\obj\\",
+      "outputPath": "D:\\Users\\pradi\\source\\Advanced CSharp DotNet\\Reflection\\ReflectionDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

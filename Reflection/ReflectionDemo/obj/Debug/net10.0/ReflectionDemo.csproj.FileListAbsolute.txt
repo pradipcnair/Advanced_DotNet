@@ -12,3 +12,18 @@ D:\Users\pradi\source\Reflection\ReflectionDemo\obj\Debug\net10.0\refint\Reflect
 D:\Users\pradi\source\Reflection\ReflectionDemo\obj\Debug\net10.0\ReflectionDemo.pdb
 D:\Users\pradi\source\Reflection\ReflectionDemo\obj\Debug\net10.0\ReflectionDemo.genruntimeconfig.cache
 D:\Users\pradi\source\Reflection\ReflectionDemo\obj\Debug\net10.0\ref\ReflectionDemo.dll
+D:\Users\pradi\source\Advanced CSharp DotNet\Reflection\ReflectionDemo\bin\Debug\net10.0\ReflectionDemo.exe
+D:\Users\pradi\source\Advanced CSharp DotNet\Reflection\ReflectionDemo\bin\Debug\net10.0\ReflectionDemo.deps.json
+D:\Users\pradi\source\Advanced CSharp DotNet\Reflection\ReflectionDemo\bin\Debug\net10.0\ReflectionDemo.runtimeconfig.json
+D:\Users\pradi\source\Advanced CSharp DotNet\Reflection\ReflectionDemo\bin\Debug\net10.0\ReflectionDemo.dll
+D:\Users\pradi\source\Advanced CSharp DotNet\Reflection\ReflectionDemo\bin\Debug\net10.0\ReflectionDemo.pdb
+D:\Users\pradi\source\Advanced CSharp DotNet\Reflection\ReflectionDemo\obj\Debug\net10.0\ReflectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pradi\source\Advanced CSharp DotNet\Reflection\ReflectionDemo\obj\Debug\net10.0\ReflectionDemo.AssemblyInfoInputs.cache
+D:\Users\pradi\source\Advanced CSharp DotNet\Reflection\ReflectionDemo\obj\Debug\net10.0\ReflectionDemo.AssemblyInfo.cs
+D:\Users\pradi\source\Advanced CSharp DotNet\Reflection\ReflectionDemo\obj\Debug\net10.0\ReflectionDemo.csproj.CoreCompileInputs.cache
+D:\Users\pradi\source\Advanced CSharp DotNet\Reflection\ReflectionDemo\obj\Debug\net10.0\ReflectionDemo.sourcelink.json
+D:\Users\pradi\source\Advanced CSharp DotNet\Reflection\ReflectionDemo\obj\Debug\net10.0\ReflectionDemo.dll
+D:\Users\pradi\source\Advanced CSharp DotNet\Reflection\ReflectionDemo\obj\Debug\net10.0\refint\ReflectionDemo.dll
+D:\Users\pradi\source\Advanced CSharp DotNet\Reflection\ReflectionDemo\obj\Debug\net10.0\ReflectionDemo.pdb
+D:\Users\pradi\source\Advanced CSharp DotNet\Reflection\ReflectionDemo\obj\Debug\net10.0\ReflectionDemo.genruntimeconfig.cache
+D:\Users\pradi\source\Advanced CSharp DotNet\Reflection\ReflectionDemo\obj\Debug\net10.0\ref\ReflectionDemo.dll

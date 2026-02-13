@@ -35,7 +35,13 @@ namespace ReflectionDemo {
                     try
                     {
                         // Invoke the method and print its return value
-                        Console.WriteLine(method.Invoke(instance, new Object[] { }));
+                        if (method.Name == "Greet")
+                        {
+                            // Since the Greet method requires parameters, we need to pass them when invoking the method
+                            Console.WriteLine(method.Invoke(instance, new Object[] { "Pradip", 46 }));
+                        }
+                        else
+                            Console.WriteLine(method.Invoke(instance, new Object[] { }));
                     }
                     catch (Exception ex)
                     {
@@ -47,16 +53,16 @@ namespace ReflectionDemo {
         }
         public class Exercise
         {
-            public virtual string Greet() => "Hello, World!";
+            public virtual string Greet(String name, int age) => $"Hello, {name}! You are {age} years old.";
             public virtual string Role() => "The Role in the Game";
             
             public virtual string Strength() => "The Strength Required";
             
             public class Player: Exercise
             {
-                public override string Greet()
+                public override string Greet(String name, int age)
                 {
-                    return "Welcome, Player!";
+                    return $"Welcome, Player, {name}! You are {age} years old.";
                 }
                 public override string Role()
                 {
@@ -70,9 +76,9 @@ namespace ReflectionDemo {
 
             public class Manager: Exercise
             {
-                public override string Greet()
+                public override string Greet(String name, int age)
                 {
-                    return "Welcome, Manager!";
+                    return $"Welcome, Manager, {name}! You are {age} years old.";
                 }
                 public override string Role()
                 {
