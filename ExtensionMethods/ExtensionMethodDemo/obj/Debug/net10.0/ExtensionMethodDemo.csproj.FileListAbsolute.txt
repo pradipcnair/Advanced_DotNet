@@ -1,0 +1,15 @@
+D:\Users\pradi\source\Advanced CSharp DotNet\ExtensionMethods\ExtensionMethodDemo\bin\Debug\net10.0\ExtensionMethodDemo.exe
+D:\Users\pradi\source\Advanced CSharp DotNet\ExtensionMethods\ExtensionMethodDemo\bin\Debug\net10.0\ExtensionMethodDemo.deps.json
+D:\Users\pradi\source\Advanced CSharp DotNet\ExtensionMethods\ExtensionMethodDemo\bin\Debug\net10.0\ExtensionMethodDemo.runtimeconfig.json
+D:\Users\pradi\source\Advanced CSharp DotNet\ExtensionMethods\ExtensionMethodDemo\bin\Debug\net10.0\ExtensionMethodDemo.dll
+D:\Users\pradi\source\Advanced CSharp DotNet\ExtensionMethods\ExtensionMethodDemo\bin\Debug\net10.0\ExtensionMethodDemo.pdb
+D:\Users\pradi\source\Advanced CSharp DotNet\ExtensionMethods\ExtensionMethodDemo\obj\Debug\net10.0\ExtensionMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pradi\source\Advanced CSharp DotNet\ExtensionMethods\ExtensionMethodDemo\obj\Debug\net10.0\ExtensionMethodDemo.AssemblyInfoInputs.cache
+D:\Users\pradi\source\Advanced CSharp DotNet\ExtensionMethods\ExtensionMethodDemo\obj\Debug\net10.0\ExtensionMethodDemo.AssemblyInfo.cs
+D:\Users\pradi\source\Advanced CSharp DotNet\ExtensionMethods\ExtensionMethodDemo\obj\Debug\net10.0\ExtensionMethodDemo.csproj.CoreCompileInputs.cache
+D:\Users\pradi\source\Advanced CSharp DotNet\ExtensionMethods\ExtensionMethodDemo\obj\Debug\net10.0\ExtensionMethodDemo.sourcelink.json
+D:\Users\pradi\source\Advanced CSharp DotNet\ExtensionMethods\ExtensionMethodDemo\obj\Debug\net10.0\ExtensionMethodDemo.dll
+D:\Users\pradi\source\Advanced CSharp DotNet\ExtensionMethods\ExtensionMethodDemo\obj\Debug\net10.0\refint\ExtensionMethodDemo.dll
+D:\Users\pradi\source\Advanced CSharp DotNet\ExtensionMethods\ExtensionMethodDemo\obj\Debug\net10.0\ExtensionMethodDemo.pdb
+D:\Users\pradi\source\Advanced CSharp DotNet\ExtensionMethods\ExtensionMethodDemo\obj\Debug\net10.0\ExtensionMethodDemo.genruntimeconfig.cache
+D:\Users\pradi\source\Advanced CSharp DotNet\ExtensionMethods\ExtensionMethodDemo\obj\Debug\net10.0\ref\ExtensionMethodDemo.dll
