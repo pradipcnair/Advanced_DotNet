@@ -1,0 +1,74 @@
+﻿using System.Reflection;
+
+namespace ReflectionDemo { 
+
+    public class Program {
+        public static void Main(string[] args)
+        {
+            Type[] exerciseType = typeof(Exercise).GetNestedTypes();
+            foreach (var type in exerciseType)
+            {
+                Console.WriteLine($"Class: {type.Name}");
+                MethodInfo[] exerciseMethods = type.GetMethods();
+                foreach (var method in exerciseMethods)
+                {
+                    if (method.IsSpecialName) continue;
+                    Console.WriteLine(method.Name);
+
+                    try
+                    {
+                        Console.WriteLine(method.Invoke(type.Name, new Object[] { }));
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"Error invoking method {method.Name}: {ex.Message}");
+                    }
+                }
+            }
+        }
+        public class Exercise
+        {
+            public virtual string Greet()
+            {
+                return "Hello, World!";
+            }
+            public virtual string Role() {
+                return "The Role in the Game";
+            }
+            public virtual string Strength() {
+                return "The Strength Required";
+            }
+            public class Player: Exercise
+            {
+                public override string Greet()
+                {
+                    return "Welcome, Player!";
+                }
+                public override string Role()
+                {
+                    return "The Player's Role in the Game";
+                }
+                public override string Strength()
+                {
+                    return "The Player's Strength Required";
+                }
+            }
+
+            public class Manager: Exercise
+            {
+                public override string Greet()
+                {
+                    return "Welcome, Manager!";
+                }
+                public override string Role()
+                {
+                    return "The Manager's Role in the Game";
+                }
+                public override string Strength()
+                {
+                    return "The Manager's Strength Required";
+                }
+            }
+        }
+     }
+}

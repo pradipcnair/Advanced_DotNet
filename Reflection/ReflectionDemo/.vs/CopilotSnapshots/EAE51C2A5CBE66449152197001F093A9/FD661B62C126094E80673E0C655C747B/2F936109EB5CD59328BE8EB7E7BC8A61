@@ -1,0 +1,35 @@
+﻿using System.Reflection;
+
+namespace ReflectionDemo { 
+
+    public class Program {
+        public static void Main(string[] args)
+        {
+            Exercise exercise = new Exercise();
+            MethodInfo[] exerciseMethods = typeof(Exercise).GetMethods();
+            foreach (var method in exerciseMethods)
+            {
+                if (method.IsSpecialName) continue;
+                Console.WriteLine(method.Name);
+            }
+            //Console.WriteLine(greetMethod.Invoke(exercise, new Object[] { }));
+        }
+        public class Exercise
+        {
+            public string Greet()
+            {
+                return "Hello, World!";
+            }
+            public string City() {
+                return "Chennai";
+            }
+            public string Country() {
+                return "India";
+            }
+            //public class Player
+            //{
+            //    //Console.WriteLine("Hello, World!");
+            //}
+        }
+     }
+}
