@@ -1,0 +1,15 @@
+D:\Users\pradi\source\Advanced CSharp DotNet\RecordsInC#\bin\Debug\net10.0\RecordsInC#.exe
+D:\Users\pradi\source\Advanced CSharp DotNet\RecordsInC#\bin\Debug\net10.0\RecordsInC#.deps.json
+D:\Users\pradi\source\Advanced CSharp DotNet\RecordsInC#\bin\Debug\net10.0\RecordsInC#.runtimeconfig.json
+D:\Users\pradi\source\Advanced CSharp DotNet\RecordsInC#\bin\Debug\net10.0\RecordsInC#.dll
+D:\Users\pradi\source\Advanced CSharp DotNet\RecordsInC#\bin\Debug\net10.0\RecordsInC#.pdb
+D:\Users\pradi\source\Advanced CSharp DotNet\RecordsInC#\obj\Debug\net10.0\RecordsInC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pradi\source\Advanced CSharp DotNet\RecordsInC#\obj\Debug\net10.0\RecordsInC#.AssemblyInfoInputs.cache
+D:\Users\pradi\source\Advanced CSharp DotNet\RecordsInC#\obj\Debug\net10.0\RecordsInC#.AssemblyInfo.cs
+D:\Users\pradi\source\Advanced CSharp DotNet\RecordsInC#\obj\Debug\net10.0\RecordsInC#.csproj.CoreCompileInputs.cache
+D:\Users\pradi\source\Advanced CSharp DotNet\RecordsInC#\obj\Debug\net10.0\RecordsInC#.sourcelink.json
+D:\Users\pradi\source\Advanced CSharp DotNet\RecordsInC#\obj\Debug\net10.0\RecordsInC#.dll
+D:\Users\pradi\source\Advanced CSharp DotNet\RecordsInC#\obj\Debug\net10.0\refint\RecordsInC#.dll
+D:\Users\pradi\source\Advanced CSharp DotNet\RecordsInC#\obj\Debug\net10.0\RecordsInC#.pdb
+D:\Users\pradi\source\Advanced CSharp DotNet\RecordsInC#\obj\Debug\net10.0\RecordsInC#.genruntimeconfig.cache
+D:\Users\pradi\source\Advanced CSharp DotNet\RecordsInC#\obj\Debug\net10.0\ref\RecordsInC#.dll
